@@ -9,7 +9,6 @@ Finished v12 files being fixed: `gitteromri-ux/final-versions` → `videos/ad5-w
 | File | What it is | Spec |
 |---|---|---|
 | `src/w46b_p1_trim.mp4` | Clean presenter take, part 1 (no captions, no music). The exact file used in v12 for 0–29.9 s | 1080×1920, 29.92 s |
-| Release `src-v1` → `w46b_p1.mp4` | Same take, untrimmed original (170 MB, too large for git) | 1080×1920, 30.05 s, HEVC |
 | `src/julie-film-full.mp4` | Julie's film. Matches the 139 s film the handover timecode map refers to | 1920×1080, 139.05 s |
 | `src/press-as-seen-on.mp4` | Omri's "As seen on" press logo sequence (USA Today, Yahoo Finance, MarketWatch, AP, The Sun) | 3840×2160, 13.4 s |
 | `src/lla-outro-card-official.mp4` | Official LLA ENROLL NOW outro card | 1920×1080, 8.3 s |
