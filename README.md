@@ -1,5 +1,7 @@
 # Julie UGC v12: public source handover for Claude
 
+**Part 2 recovery, 1 October 2026:** the matching clean Higgsfield continuation is now supplied on this branch as binary chunks. Run `python3 restore_part2.py` and read [PART2-RECOVERY.md](PART2-RECOVERY.md) for provenance, checksums and the 30.000-second original versus 29.92-second historical working-copy distinction.
+
 Updated 1 October 2026. This repository is PUBLIC at Omri's explicit request. No sign-in is needed to download it. This is a recovery handover, not a claim that the original editing project has been recovered in full.
 
 ## Start here
@@ -46,7 +48,7 @@ Read this README first, then `refs/CLAUDE-UGC-V12-AUDIT.md`, `refs/ORIGINAL-BRIE
 
 The following files have NOT been recovered or uploaded:
 
-- `src/w46b_p2.mp4`: the clean second presenter take.
+- The exact historical 29.92-second working copy of `src/w46b_p2.mp4`; the matching full 30.000-second provider original has now been recovered. See `PART2-RECOVERY.md`.
 - `assemble75.py`, `render_cards.py`, `render_zoom.py`, `qc.py`, `fix_end.sh`, `tx.py`, `tx_json.py`, `run_ad5.sh`: original editing code.
 - Original word-alignment caches, ASS caption sources, standalone animated Zoom renders, and renamed font instances.
 
